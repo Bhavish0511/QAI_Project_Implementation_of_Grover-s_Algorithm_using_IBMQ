@@ -1,0 +1,1 @@
+# QAI_Project_Implementation_of_Grover-s_Algorithm_using_IBMQ
